@@ -1,0 +1,13 @@
+Faculty,date,slot1,slot2,slot3,slot4,slot5,slot6,slot7,slot8
+3,2021-06-11,A101,A101,A101,Free,Free,Free,Free,Free
+4,2021-06-12,A102,A102,A102,Free,Free,Free,Free,Free
+2,2021-06-13,A103,A103,A103,Free,Free,Free,Free,Free
+3,2021-06-14,Free,Free,Free,Free,A101,A101,A101,Free
+4,2021-06-15,Free,Free,Free,Free,A102,A102,A102,Free
+3,2021-06-16,Free,A101,A101,A101,Free,Free,Free,Free
+4,2021-06-17,Free,A102,A102,A102,Free,Free,Free,Free
+2,2021-06-18,Free,A103,A103,A103,Free,Free,Free,Free
+1,2021-06-19,Free,A104,A104,A104,Free,Free,Free,Free
+3,2021-06-20,Free,Free,A101,A101,A101,Free,Free,Free
+3,2021-06-21,Free,Free,Free,A101,A101,A101,Free,Free
+4,2021-06-22,Free,Free,Free,A102,A102,A102,Free,Free
